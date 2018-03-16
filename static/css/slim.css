@@ -86,8 +86,7 @@ a {
     text-decoration: underline; }
 
 em {
-  text-emphasis-style: circle;
-  text-emphasis-position: under; }
+  color: #000; }
 
 code {
   font-family: 'Source Code Pro', Monaco, Courier, monospace;
@@ -217,7 +216,7 @@ button,
           transition: all 0.2s; }
 
 .nav-list .spacer {
-	text-align: center;
+  text-align: center;
 }
 
 .ci {
@@ -362,6 +361,6 @@ button,
 }
 
 .post-tags a {
-	color: #ccc;
+  color: #ccc;
 }
 
